@@ -10,6 +10,6 @@ DELAY 500
 ENTER
 DELAY 1000
 REM Insert your website below :)
-STRING www.yourwebsite.com
+STRING https://ro.co/ed-rsl-quiz/viagra/3/?utm_campaign=19810690687&utm_content=146939078116&utm_source=google&utm_medium=cpc&gad_source=1&gad_campaignid=19810690687&gclid=CjwKCAjw87XBBhBIEiwAxP3_A5q7QyLt-FGR_sdYk14gFMNShaA_Yg4L9YMbzpBeM2i4YGDDQVLGpxoCV7oQAvD_BwE 
 DELAY 500
 ENTER
